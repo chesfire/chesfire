@@ -4,15 +4,21 @@
 <img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-### Hi! I'm Christian Belchez
+<h2> Elo Eartling, I'm Christian Belchez! <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
 
 ---
 
-<em> 
-Front End Developer<br>
-Artist 
-</em>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A <strong>About Me</strong>
 
+```javascript
+const belch = {
+  pronouns: "he" | "him",
+  languages: [Javascript, Typescript, HTML, CSS, Bash, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  roles: [Front End Developer, Artist, Musician, Otaku, Cyclist],
+  skills: [Web Design, Mobile Application, Logos, Illustration, Software Development]	
+}
+```
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chesfire&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
