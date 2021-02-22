@@ -17,9 +17,8 @@ const belch = {
 ```
 
 <img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
----
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chesfire&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+---
 
 ### Connect with me 📝
 
