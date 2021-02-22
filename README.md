@@ -4,11 +4,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-<h2> Elo Eartling, I'm Christian Belchez! <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
+<h2> Ola!, I'm Christian Belchez! <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
 
----
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A <strong>About Me</strong>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
 
 ```javascript
 const belch = {
