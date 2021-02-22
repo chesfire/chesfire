@@ -6,11 +6,9 @@
 
 ### Hi! I'm Christian Belchez
 
-- 👨‍💻 Currently working on web development technologies JavaScript, React, CSS etc.
-- 📚 Learning everything about Frontend and Backend technologies 😉
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
-
+<em>- Front End Developer
+- Artist 
+</em>
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chesfire&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
