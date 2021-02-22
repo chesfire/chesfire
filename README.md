@@ -1,7 +1,7 @@
 
 <h1 align="center" style="display:none;"></h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 ### Hi! I'm Christian Belchez
@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
