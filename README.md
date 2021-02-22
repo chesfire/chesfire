@@ -1,9 +1,6 @@
 
 <h1 align="center" style="display:none;"></h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-
 <h2> Ola!, I'm Christian Belchez! <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
 
 
@@ -18,11 +15,13 @@ const belch = {
   skills: [Web Design, Mobile Application, Logos, Illustration, Software Development]	
 }
 ```
+
+<img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chesfire&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Connect with me 📝
 
 [<img align="left" alt="www.walla.co.il" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
