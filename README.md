@@ -6,9 +6,11 @@
 
 ### Hi! I'm Christian Belchez
 
-<em>- Front End Developer
-- Artist 
+<em> 
+Front End Developer<br>
+Artist 
 </em>
+
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chesfire&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
