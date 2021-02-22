@@ -1,12 +1,12 @@
 
 <h1 align="center" style="display:none;"></h1>
 
----
-
 <img align="right" alt="GIF" height="160px" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 ### Hi! I'm Christian Belchez
+
+---
 
 <em> 
 Front End Developer<br>
