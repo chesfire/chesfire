@@ -10,7 +10,7 @@
 const belch = {
   pronouns: "he" | "him",
   languages: [Javascript, Typescript, Bash, Python, Java, C, C++],
-  tools: [React, VueJS, Laravel, NextJS, NuxtJS Redux, Node, Webpack, Sass, Figma, Adobe XD , Docker, ],
+  tools: [React, VueJS, Laravel, NextJS, NuxtJS Redux, Node, Webpack, Sass, Figma, Adobe XD , Docker ],
   roles: [Front End Developer, Artist, Musician, Otaku, Cyclist],
   skills: [Web Design, Mobile Application, Logos, Illustration, Software Development]	
 }
