@@ -22,9 +22,9 @@ const belch = {
 
 ### Connect with me 📝
 
-![website](https://img.shields.io/badge/-Website-1EBBEE?logo=InternetExplorer)
-![linkedin](https://img.shields.io/badge/-Linkedin-0E76A8?logo=Linkedin)
-![Spotify](https://img.shields.io/badge/-Spotify-191414?logo=Spotify)
+!<a href="https://belch.me"><img src="https://img.shields.io/badge/-Website-1EBBEE?logo=InternetExplorer" /></a>
+!<a href="https://www.linkedin.com/in/christianbelchez"><img src="https://img.shields.io/badge/-Linkedin-0E76A8?logo=Linkedin" /></a>
+!<a href="https://open.spotify.com/user/gknwp6cjwe168y7pld9qkiqzj"><img src="https://img.shields.io/badge/-Spotify-191414?logo=Spotify" /></a>
 
 <br />
 
@@ -41,8 +41,4 @@ const belch = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 <br/>
-
-[website]: https://belch.me
-[linkedin]: https://www.linkedin.com/in/christianbelchez
-[Spotify]: https://open.spotify.com/user/gknwp6cjwe168y7pld9qkiqzj
 
