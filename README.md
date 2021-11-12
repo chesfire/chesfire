@@ -22,9 +22,9 @@ const belch = {
 
 ### Connect with me 📝
 
-!<a href="https://belch.me"><img src="https://img.shields.io/badge/-Website-1EBBEE?logo=InternetExplorer" /></a>
-!<a href="https://www.linkedin.com/in/christianbelchez"><img src="https://img.shields.io/badge/-Linkedin-0E76A8?logo=Linkedin" /></a>
-!<a href="https://open.spotify.com/user/gknwp6cjwe168y7pld9qkiqzj"><img src="https://img.shields.io/badge/-Spotify-191414?logo=Spotify" /></a>
+<a href="https://belch.me"><img src="https://img.shields.io/badge/-Website-1EBBEE?logo=InternetExplorer" /></a>
+<a href="https://www.linkedin.com/in/christianbelchez"><img src="https://img.shields.io/badge/-Linkedin-0E76A8?logo=Linkedin" /></a>
+<a href="https://open.spotify.com/user/gknwp6cjwe168y7pld9qkiqzj"><img src="https://img.shields.io/badge/-Spotify-191414?logo=Spotify" /></a>
 
 <br />
 
